@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "emis_le": "2026-11-09T12:11:40Z",
+  "apps": {
+    "aivatar": {
+      "demo": false,
+      "demo_donnees": false,
+      "acces_coupe": false
+    },
+    "shooting": {
+      "demo": false,
+      "demo_donnees": false,
+      "acces_coupe": false
+    },
+    "capture": {
+      "demo": false,
+      "demo_donnees": false,
+      "acces_coupe": false
+    }
+  }
+}
