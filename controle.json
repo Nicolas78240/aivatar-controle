@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "emis_le": "2026-11-09T12:11:40Z",
+  "emis_le": "2026-11-13T09:33:31Z",
   "apps": {
     "aivatar": {
-      "demo": false,
+      "demo": true,
       "demo_donnees": false,
       "acces_coupe": false
     },
